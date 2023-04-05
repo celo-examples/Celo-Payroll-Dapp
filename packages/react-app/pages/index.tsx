@@ -1,7 +1,7 @@
 import React, { useState, useEffect  } from 'react'
 import {
    payEmployees,
-   transferToken, getTokenBalance, getEmployees, removeEmployees
+  getEmployees, removeEmployees
 } from '@/interact'
 import { useCelo } from '@celo/react-celo';
 import EmployeeModal from '@/components/EmployeeModal';

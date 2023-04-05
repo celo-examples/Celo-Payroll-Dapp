@@ -33,7 +33,7 @@ export default function TableList(): JSX.Element {
 
   const formateTime = (lastpayday: number) => {
     const hoursAgo = Math.round((Date.now() / 1000 - lastpayday) / 3600);
-    return `${hoursAgo} hour ago `
+    return `${hoursAgo} hours ago `
   }
 
   useEffect(() => {

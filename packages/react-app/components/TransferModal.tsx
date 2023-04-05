@@ -19,7 +19,7 @@ export default function TransferModal(): JSX.Element {
 
   const handleTransfer = async () => {
     await transferToken(address, kit, walletAddress, amount)
-    window.location.reload()
+    // window.location.reload()
   }
 
   return (
