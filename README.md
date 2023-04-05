@@ -1,6 +1,6 @@
 ## About The Project
 
-Voting Dapp smart contract was written in solidity and depoloyed to the Celo blockchain. It's a decentralized voting system, built using the Celo composer for smart contract interactions.
+Payroll Dapp smart contract was written in solidity and depoloyed to the Celo blockchain. It's a decentralized Payroll system, built using the Celo composer for smart contract interactions.
 
 
 ## Built With

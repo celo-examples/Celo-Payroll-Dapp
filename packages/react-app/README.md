@@ -1,19 +1,17 @@
-# Decentralized Auction Dapp with Celo Composer
-The auction dApp was built using Celo Composer. 
+# Decentralized Payroll Dapp with Celo Composer
+The Payroll dApp was built using Celo Composer. 
 
 The contract contains for the following
-  - Bidding
-  - EndAuction
-  - Get Enddate
-  - Get Highest bidder
-  - Refund bid to bidders
-  - Send the highest bid to the contract owner
-  - Update end time.
+  - Add employee
+  - Get list of employees
+  - Update Employee hourly rate
+  - Remove Employee
+  - Pay all employees based on hours worked
+  - Pay employee based on hours worked
+
 ## Demo
 
-This screen shows when the auction is still ongoing
-![image](./public/images/demo2.png)
+This screen shows the different actions that can be carried on with the dapp
+![image](./public/images/home.png)
 
-This screen shows when the auction has ended
-![image](./public/images/demo1.png)
 
